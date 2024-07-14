@@ -1,5 +1,5 @@
 // this is the guessing game for rustlang
-
+// this is part of the rustlang book and learning coding
 
 //get the input output library into the game
 use std::io;
